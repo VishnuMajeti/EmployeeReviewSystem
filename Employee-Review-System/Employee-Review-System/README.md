@@ -33,23 +33,7 @@ It is easy for employees to use and helps create a positive work environment.
   
   ```
 
- 
-  ## Features
-  * Adimin Interface
-  ![Alt text](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(39).png?raw=true)
-  *Interface for employee who is not admin
-  ![Test Image 4](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(44).png?raw=true)
-  * Admin have all employee Data
-  ![test5](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(40).png?raw=true)
-  * Admin assing work to employ for feeback each other, or give Authority to others.  
-  ![test6](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(41).png?raw=true)
-  * SignUp Interface
-  ![test5](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(43).png?raw=true)
-  * SignIn Inteface
-  ![test5](https://github.com/DivyaGaurav21/Employee-Review-System/blob/master/assets/Images/Screenshot%20(42).png?raw=true)
- 
-
-  ## Folder Structure
+   ## Folder Structure
 ```bash
 
 employee-review-System
@@ -97,13 +81,7 @@ employee-review-System
     |
 ``` 
  
-## 🚀 About Me
-I'm a junior full stack developer...
 
-who enjoye and love to work on web developement and learning new technology in my free times.
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://divyagaurav21.github.io/my-portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divya-gaurav-917889215/)
 
 
 
